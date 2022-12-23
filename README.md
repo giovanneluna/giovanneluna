@@ -1,12 +1,11 @@
 ##
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanneluna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanneluna&show_icons=true&theme=tokyonight&locale=pt-br&layout=compact" alt="joa0-pedro" height="157" width="330"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanneluna&show_icons=true&theme=tokyonight&locale=pt-br&layout=compact" alt="giovanneluna" height="157" width="330"/>
 </p>
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=giovanneluna&show_icons=true&theme=tokyonight&locale=pt-br" alt="joa0-pedro" width="400"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=giovanneluna&show_icons=true&theme=tokyonight&locale=pt-br" alt="giovanneluna" width="400"/>
 </p>
 </div>
 <br>
