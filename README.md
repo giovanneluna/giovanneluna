@@ -18,13 +18,13 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: gikalunalticg@gmail.com">
-      <img width="50" src="gmail.svg">
+      <img width="35" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/giovanne-de-luna-ara%C3%BAjo-filho-0b341b245/">
-      <img width="25" src="linkedin.svg">
+      <img width="35" src="linkedin.svg">
     </a>
     <a href = "https://www.instagram.com/giovanneluna/">
-      <img width="25" src="instagram.png">
+      <img width="30" src="instagram.png">
     </a>
 </div>
   
