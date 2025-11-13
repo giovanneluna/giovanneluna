@@ -1,42 +1,60 @@
-##
-
-<div>
-  <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovanneluna&show_icons=true&theme=tokyonight&locale=pt-br&layout=compact" alt="giovanneluna" height="157" width="330"/>
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=giovanneluna&show_icons=true&theme=tokyonight&locale=pt-br" alt="giovanneluna" width="400"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.vercel.app/?lines=Desenvolvedor+Full+Stack;Apaixonado+por+código+e+tecnologia&center=true&size=30&color=5B8FB8&vCenter=true&width=500&height=50">
 </div>
-<br>
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Tecnologias Usadas</h1>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-  </a>
-  </div>
-    
-  
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: gikalunalticg@gmail.com">
-      <img width="35" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/giovanne-de-luna-ara%C3%BAjo-filho-0b341b245/">
-      <img width="35" src="linkedin.svg">
-    </a>
-    <a href = "https://www.instagram.com/giovanneluna/">
-      <img width="30" src="instagram.png">
-    </a>
+---
+
+## 👋 Sobre Mim
+
+Olá! Sou **Giovanne Luna**, desenvolvedor Full Stack apaixonado por criar soluções web modernas e eficientes.
+
+Atualmente trabalho com tecnologias modernas, focando em desenvolvimento backend com Node.js, Fastify e Laravel, além de criar interfaces e aplicativos móveis com React e React Native. Estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades como desenvolvedor.
+
+---
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanneluna&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanneluna&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br"/>
 </div>
+
+<div align="center">
+  <img height="250em" src="code.gif" alt="coding-time"/>
+</div>
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
   
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+</div>
+
+---
+
+## 📱 Redes Sociais
+
+<div align="center">
+  
+  <a href="mailto:gikalunalticg@gmail.com" target="_blank">
+    <img src="gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 10px;">
+  </a>
+  <a href="https://www.linkedin.com/in/giovanne-de-luna-ara%C3%BAjo-filho-0b341b245/" target="_blank">
+    <img src="linkedin.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 10px;">
+  </a>
+  <a href="https://www.instagram.com/giovanneluna/" target="_blank">
+    <img src="instagram.png" alt="Instagram" width="40" height="40" style="margin: 0 10px;">
+  </a>
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=giovanneluna&color=5B8FB8&style=flat-square" alt="Profile views" />
+</div>
